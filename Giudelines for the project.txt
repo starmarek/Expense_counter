@@ -1,0 +1,22 @@
+
+!!! I WERSJA !!!
+
+1. Wprowadzamy plik .txt ze skopiowanym tekstem z wyciagu bankowego
+2. Dostajemy zwrotny plik .txt który zawiera uporzadkowane i podzielone wydatki:
+
+- Kolejno wypisane beda:
+	* Wyzywienie 
+	* Czynsz za mieszkanie
+	* Pieniadze przeznaczone do skarbonki
+	* Pieniadze zwracane innym przeze mnie
+	* Pieniadze zwracane mnie przez innych
+	* Komunikacja
+	* Wymiana pieniedzy miedzy mna samym, oraz moimi rodzicami
+	* Pieniadze wydane na rzeczy materialne (meble, elektronika, przybory szkolne, itd..)
+
+- Kolejne 'gwiazdki' oddzielone beda dluga linia '------'; wydatki na rzecz tej samej osoby lub instytucji
+beda nastepowaly po sobie, i zmiany miedzy instytucjami beda odzielone dwoma spacjami.
+
+-Po zakonczeniu wypsiywania dla danej instytucji, po wypisaniu ca³ej 'gwizadki', oraz na koniec podliczania
+zostanie wyswietlona kwota podsumowujaca wydatki.  
+	
