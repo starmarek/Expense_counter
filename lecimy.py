@@ -37,107 +37,155 @@ for i in r_handle:
     elif any(s in i for s in slowa_klucz) and not("Wyciąg" in i):
         nmainy.append(str(i))
 
-wyrazy_wymiana = []
-wyrazy_mat = []
-wyrazy_komunikacja = []
-wyrazy_skarbonka = []
-wyrazy_zw_dlugi = []
-wyrazy_dlugi = []
+wyrazy_wymiana = [
+    "pucher",
+    "wpłatomat",
+    "pekao",
+    "okw nr"
+]
+wyrazy_mat = [
+    "ikea",
+    "carto",
+    "apteka",
+    "phu beata",
+    "blik",
+    "poczta",
+    "media",
+    "castorama",
+    "salon fry"
+]
+wyrazy_komunikacja = [
+    "interc",
+    "ancard",
+    "skycash"
+]
+wyrazy_skarbonka = [
+    "zachowaj re"
+]
+wyrazy_zw_dlugi = [
+    "lorek",
+    "zuzanna",
+    "rachwalik",
+    "jarosz",
+    "dyba",
+    "księżyk",
+    "alicja"
+
+]
+wyrazy_dlugi = wyrazy_zw_dlugi
 wyrazy_mieszkanie = [
     "mzuri"
 ]
 wyrazy_spozywcze = [
-    "biedro",
+    "biedr",
     "pss",
     "zabka",
     "politechnika",
-    "t and j",
+    "and j",
     "lidl",
     "mihiderka",
     "ledi",
     "karni",
     "carrefour",
-    "fasolka"
+    "fasolka",
+    "szu rlej",
+    "przybij",
+    "zeni t",
+    "hats off",
+    "mel & di",
+    "padbar"
 ]
 
 zbior_wyrazow = [
     wyrazy_spozywcze,
     wyrazy_mieszkanie,
+    wyrazy_skarbonka,
+    wyrazy_komunikacja,
     wyrazy_wymiana,
     wyrazy_mat,
-    wyrazy_komunikacja,
-    wyrazy_skarbonka,
     wyrazy_zw_dlugi,
     wyrazy_dlugi
 ]
 tmp = []
-liczba_wydatkow = 2
+liczba_wydatkow = 8
 i = 0
 suma = 0
 count = 0
-
+counter = 0
+counterer = 0
 
 def take_second(elem):
     return elem[1]
 
 
-def check(str):
-    if 'xxxx' in str[0]:
-        return 0
-    else:
-        elo = str[3].strip("\n")
-        elo = elo.replace(".", "")
-        elo = elo.replace("-", "")
-        if elo.replace(" ", "").isdigit():
-            return 1
-        else:
-            return 2
+def checknsave(str):
+    for l, g in enumerate(str):
+        if "." in g:
+            g = g.strip("\n")
+            g = g.replace(".", "")
+            g = g.replace("-", "")
+            if g.replace(" ", "").isdigit():
+                return l
 
+
+# TODO: string backwards indexing
+# TODO: sort dates
+# TODO: titles of transfers
 
 while i < liczba_wydatkow:
 
     for ind in mainy:
         for s in ind:
+
             if any(z in s.lower() for z in zbior_wyrazow[i]):
-                pomoc = check(ind)
+                if i == 6 and 'wychodzący' in ind[0].lower():
+                    continue
+                elif i == 7 and 'przychodzący' in ind[0].lower():
+                    continue
                 tmp.append(ind)
-                suma += float(ind[2+pomoc])
 
     tmp.sort(key=take_second)
-
+    counterer += len(tmp)
     for s in tmp:
-        pomoc = check(s)
+        pomoc = checknsave(s)
+
         count += 1
+        ll = len(str(s[pomoc]))
+        b = s[1]
+        if pomoc == 1:
+            b = s[0][22:31] + "\n"
+
         if count < 10:
-            if float(s[2+pomoc]) > -10:
-                if s[2][::-1].find('.') == 2:
-                    w_handle.write("{}     {}    {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 1 -2.32
-                    continue
-                w_handle.write("{}     {}    {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 1 -2.3
-                continue
-            if s[2][::-1].find('.') == 2:
-                w_handle.write("{}     {}   {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 1 -12.32
-                continue
-            w_handle.write("{}     {}    {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 1 -12.3
-            continue
+            if ll == 3:
+                w_handle.write("{}   {}        {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+            elif ll == 4:
+                w_handle.write("{}   {}       {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+            elif ll == 5:
+                w_handle.write("{}   {}      {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+            elif ll == 6:
+                w_handle.write("{}   {}     {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+            elif ll == 7:
+                w_handle.write("{}   {}    {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
 
-        if float(s[2+pomoc]) > -10:
-            if s[2][::-1].find('.') == 2:
-                w_handle.write("{}    {}    {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 11 -2.32
-                continue
-            w_handle.write("{}    {}     {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 11 -2.3
-            continue
-        if s[2][::-1].find('.') == 2:
-            w_handle.write("{}    {}   {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 11 -12.32
-            continue
-        w_handle.write("{}    {}    {}    {}".format(count, s[2 + pomoc], s[0][0:10], s[1]))  # 11 -12.3
-        continue
-
-    for d in range(0, 100): w_handle.write('-')
-    w_handle.write('\n')
+        elif ll == 3:
+            w_handle.write("{}   {}       {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+        elif ll == 4:
+            w_handle.write("{}  {}       {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+        elif ll == 5:
+            w_handle.write("{}  {}      {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+        elif ll == 6:
+            w_handle.write("{}  {}     {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+        elif ll == 7:
+            w_handle.write("{}  {}    {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
+    w_handle.write("-"*100+"\n")
     i += 1
+    counter += count
     count = 0
     tmp.clear()
+
+w_handle.write(str(counterer))
+w_handle.write(str(counter))
+
 
 
 r_handle.close()
