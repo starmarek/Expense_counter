@@ -1,22 +1,20 @@
 
-!!! I WERSJA !!!
+!!! VERSION 1.0 !!!
 
-1. Wprowadzamy plik .txt ze skopiowanym tekstem z wyciagu bankowego
-2. Dostajemy zwrotny plik .txt który zawiera uporzadkowane i podzielone wydatki:
+1. Program gets a .txt file with raw text copied from bank statement
+2. It returns also a .txt file with ordered, sorted and divided into groups expenses
+- Expenses will be listed in the following order:
+	* Food
+	* Rent
+	* Piggybank money
+	* My debts
+    * Return of debts
+	* Transport
+    * Money exchange between me and my parents and also myself
+	* Money spended on real things and services (hairdresser, school accessories, electronics, etc.)
 
-- Kolejno wypisane beda:
-	* Wyzywienie 
-	* Czynsz za mieszkanie
-	* Pieniadze przeznaczone do skarbonki
-	* Pieniadze zwracane innym przeze mnie
-	* Pieniadze zwracane mnie przez innych
-	* Komunikacja
-	* Wymiana pieniedzy miedzy mna samym, oraz moimi rodzicami
-	* Pieniadze wydane na rzeczy materialne (meble, elektronika, przybory szkolne, itd..)
+- Following 'stars' will be separeted with long '------' line and signed with the name of it; expenses that are releted to the same person
+or institution will be next to each other and changing the institution will result in adding an endline mark.
 
-- Kolejne 'gwiazdki' oddzielone beda dluga linia '------'; wydatki na rzecz tej samej osoby lub instytucji
-beda nastepowaly po sobie, i zmiany miedzy instytucjami beda odzielone dwoma spacjami.
-
--Po zakonczeniu wypsiywania dla danej instytucji, po wypisaniu ca³ej 'gwizadki', oraz na koniec podliczania
-zostanie wyswietlona kwota podsumowujaca wydatki.  
-	
+- At the end of given institutions expenses, after the whole 'star' and after reading every expense in the bank
+statement, there will be an amount of money displayed, summarizing given piece of data.
