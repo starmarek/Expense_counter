@@ -1,0 +1,346 @@
+                                                            RENT
+
+2018.10.01  -760.0  Prowadzony na rzecz: mzuri sp. z.o.o                  11004155, Jana Henryka Pestalozzieg o 2 lok 1
+SUM: -760.0
+                                                       SUM FOR RENT: -760.0
+-----------------------------------------------------------------------------------------------------------------------------
+                                                            FOOD
+
+2018.09.28  -16.15  02-05 PSS SPOL EM Katow, Katowice, POL
+2018.10.12  -24.92  02-05 PSS SPOL EM Katow, Katowice, POL
+2018.10.27  -1.29   05 PSS SPOLE M Katow, Katowice, POL
+SUM: -42.36
+
+2018.10.15  -3.08   07 Sam Zeni t, Katowice, POL
+SUM: -3.08
+
+2018.10.01  -9.86   AND J SKLEP 8 00, WROCLAW, POL
+2018.10.04  -5.39   AND J SKLEP 8 00, WROCLAW, POL
+2018.09.30  -29.19  AND J SKLEP 800, WROCLAW, POL
+SUM: -44.44
+
+2018.10.02  -5.98   CARREFOUR EXPRE SS 3721, WROCLAW, POL
+2018.10.20  -6.72   CARREFOUR EXPRE SS, WROCLAW, POL
+SUM: -12.7
+
+2018.10.20  -7.93   FASOLKA, Wrocla w, POL
+SUM: -7.93
+
+2018.10.14  -10.0   HATS OFF, SOSN OWIEC, POL
+SUM: -10.0
+
+2018.09.30  -8.0    JAKUB JAKUB SZU RLEJ, WROCLAW, POL
+SUM: -8.0
+
+2018.09.30  -37.2   JMP S.A. BIEDR ONKA 128, WROCLAW, POL
+2018.10.03  -20.63  JMP S.A. BIEDR ONKA 128, WROCLAW, POL
+2018.10.04  -18.42  JMP S.A. BIEDR ONKA 128, WROCLAW, POL
+2018.10.10  -13.39  JMP S.A. BIEDR ONKA 128, WROCLAW, POL
+2018.10.15  -16.46  JMP S.A. BIEDR ONKA 128, WROCLAW, POL
+2018.10.20  -26.02  JMP S.A. BIEDR ONKA 237, WROCLAW, POL
+2018.10.09  -4.66   JMP S.A. BIEDRO NKA 128, WROCLAW, POL
+2018.09.30  -4.97   JMP S.A. BIEDRO NKA 237, WROCLAW, POL
+2018.10.03  -4.97   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.05  -2.58   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.09  -2.98   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.10  -4.48   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.11  -3.68   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.12  -3.43   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.16  -3.66   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.17  -3.96   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.18  -6.47   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.19  -4.17   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.24  -3.97   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.25  -3.28   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.26  -2.97   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.29  -3.13   JMP S.A. BIEDRO NKA 265, WROCLAW, POL
+2018.10.26  -1.99   JMP S.A. BIEDRO NKA 523, WROCLAW, POL
+SUM: -197.47
+
+2018.10.16  -25.61  LEDI SP. Z O.O ., WROCLAW, POL
+2018.10.19  -17.09  LEDI SP. Z O.O ., WROCLAW, POL
+2018.10.24  -17.59  LEDI SP. Z O.O ., WROCLAW, POL
+2018.10.18  -3.1    LEDI SP. Z O.O. , WROCLAW, POL
+2018.10.23  -8.74   LEDI SP. Z O.O. , WROCLAW, POL
+SUM: -72.13000000000001
+
+2018.10.08  -46.85  LIDL DLUGOSZA, Wroclaw, POL
+2018.10.27  -27.32  LIDL SLONECZNA , Katowice, POL
+2018.10.28  -11.82  LIDL SLONECZNA , Katowice, POL
+SUM: -85.99000000000001
+
+2018.10.20  -12.0   MEL & DI POLAN D SP. ZO, WROCLAW, POL
+SUM: -12.0
+
+2018.10.13  -37.0   MIHIDERKA, Kat owice, POL
+SUM: -37.0
+
+2018.10.23  -4.8    Nugat Piekarnia , Wroclaw, POL
+SUM: -4.8
+
+2018.10.25  -8.0    PADBAR, WROCLAW , POL
+SUM: -8.0
+
+2018.10.02  -2.2    Politechnika , Wroclaw, POL
+2018.10.09  -2.2    Politechnika , Wroclaw, POL
+2018.10.16  -2.2    Politechnika , Wroclaw, POL
+2018.10.23  -2.2    Politechnika , Wroclaw, POL
+2018.10.25  -2.2    Politechnika , Wroclaw, POL
+2018.10.26  -2.2    Politechnika , Wroclaw, POL
+2018.10.02  -6.7    POLITECHNIKA WR . DZIAL, Wroclaw, POL
+SUM: -19.9
+
+2018.10.02  -10.0   PRZYBIJ PIATAK A SP. Z, Wroclaw, POL
+SUM: -10.0
+
+2018.10.17  -3.7    Sklep firmowy P iekarni, Wroclaw, POL
+2018.10.24  -3.25   Sklep firmowy P iekarni, Wroclaw, POL
+SUM: -6.95
+
+2018.10.18  -38.99  ZABKA Z0738 K. 2, WROCLAW, POL
+2018.10.01  -5.72   ZABKA Z0738 K.2 , WROCLAW, POL
+2018.10.28  -2.8    ZABKA Z0738 K.2 , WROCLAW, POL
+2018.10.07  -3.98   ZABKA Z1248 K.1 , KATOWICE, POL
+2018.10.05  -7.28   ZABKA Z1248 K.1 , KATOWICE, POL
+2018.10.14  -4.58   ZABKA Z1248 K.1 , KATOWICE, POL
+2018.10.14  -2.69   ZABKA Z1248 K.1 , KATOWICE, POL
+2018.10.27  -4.18   ZABKA Z1248 K.1 , KATOWICE, POL
+2018.10.03  -3.79   ZABKA Z3721 K.2 , WROCLAW, POL
+2018.10.20  -17.99  ZABKA Z4004 K. 1, WROCLAW, POL
+2018.10.04  -3.94   ZABKA Z4004 K.1 , WROCLAW, POL
+2018.10.17  -3.69   ZABKA Z4004 K.1 , WROCLAW, POL
+2018.10.24  -6.18   ZABKA Z4004 K.1 , WROCLAW, POL
+SUM: -105.81
+                                                       SUM FOR FOOD: -688.5600000000005
+-----------------------------------------------------------------------------------------------------------------------------
+                                                            DEBTS
+
+2018.10.31  -120.0  Odbiorca: Alicja Plewako                              Zebys jeszcze na obiad miala!
+SUM: -120.0
+
+2018.10.01  -9.0    Prowadzony na rzecz: Jerzy Lorek                      za piwko
+2018.10.26  -8.0    Prowadzony na rzecz: Jerzy Lorek                      za piwko
+SUM: -17.0
+
+2018.10.29  -18.94  Prowadzony na rzecz: KSIEZYK DOMINIK,ORKANA           WÓDAAAA
+SUM: -18.94
+
+2018.10.04  -12.5   Prowadzony na rzecz: Monika Jarosz                    Dla najlepszej zarzadczyni. Klaniam sie niziutko
+SUM: -12.5
+
+2018.10.01  -7.0    Prowadzony na rzecz: ZUZANNA A KUSNIERZ UL.           Za zabke
+SUM: -7.0
+                                                       SUM FOR DEBTS: -175.44
+-----------------------------------------------------------------------------------------------------------------------------
+                                                            DEBTS_RETURN
+
+2018.10.09  10.0    Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA          Zarcie
+2018.10.16  5.0     Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA          Platki
+SUM: 15.0
+
+2018.10.19  13.0    Prowadzonego na rzecz: RACHWALIK WOJCIECH,,UL         Za przepyszny alkohol
+SUM: 13.0
+
+2018.10.19  13.0    Prowadzonego na rzecz: ZUZANNA A KUSNIERZ UL.         Za alkohol
+SUM: 13.0
+                                                       SUM FOR DEBTS_RETURN: 41.0
+-----------------------------------------------------------------------------------------------------------------------------
+                                                            TRANSPORT
+
+2018.09.27  -3.0    BILETY SKYCASH, WARSZAWA, POL
+2018.10.05  -3.0    BILETY SKYCASH, WARSZAWA, POL
+2018.10.06  -1.5    BILETY SKYCASH, WARSZAWA, POL
+2018.10.13  -1.5    BILETY SKYCASH, WARSZAWA, POL
+2018.10.12  -1.5    BILETY SKYCASH, WARSZAWA, POL
+SUM: -10.5
+
+2018.10.01  -1.7    MPK2208 2WRO UR BANCARD, WROCLAW, POL
+2018.10.01  -1.7    MPK2223 1WRO UR BANCARD, WROCLAW, POL
+2018.10.22  -1.2    MPK2440 3WRO UR BANCARD, WROCLAW, POL
+2018.09.29  -1.2    MPK2486 3WRO UR BANCARD, WROCLAW, POL
+2018.10.18  -1.2    MPK2711 3WRO UR BANCARD, WROCLAW, POL
+2018.10.01  -1.2    MPK2719 1WRO UR BANCARD, WROCLAW, POL
+2018.09.29  -1.2    MPK2722 2WRO UR BANCARD, WROCLAW, POL
+2018.10.19  -1.2    MPK2725 4WRO UR BANCARD, WROCLAW, POL
+2018.10.18  -1.2    MPK2802 3WRO UR BANCARD, WROCLAW, POL
+2018.10.16  -1.2    MPK3010 3WRO UR BANCARD, WROCLAW, POL
+2018.10.05  -1.2    MPK3123 4WRO UR BANCARD, WROCLAW, POL
+2018.10.02  -1.2    MPK5411 2WRO UR BANCARD, WROCLAW, POL
+2018.10.18  -1.2    MPK5421 2WRO UR BANCARD, WROCLAW, POL
+SUM: -16.599999999999994
+
+2018.10.07  -25.22  PLN intercity. pl, WARSZAWA, POL
+SUM: -25.22
+
+2018.09.28  -16.12  SKYCASH INTERC ITY, WARSZAWA, POL
+2018.10.04  -16.12  SKYCASH INTERC ITY, WARSZAWA, POL
+2018.10.14  -16.12  SKYCASH INTERC ITY, WARSZAWA, POL
+2018.10.22  -16.12  SKYCASH INTERC ITY, WARSZAWA, POL
+2018.10.25  -16.12  SKYCASH INTERC ITY, WARSZAWA, POL
+2018.10.28  -16.12  SKYCASH INTERC ITY, WARSZAWA, POL
+2018.10.29  -16.12  SKYCASH INTERC ITY, WARSZAWA, POL
+SUM: -112.84000000000002
+                                                       SUM FOR TRANSPORT: -165.16000000000003
+-----------------------------------------------------------------------------------------------------------------------------
+                                                            REAL
+
+2018.10.03  -10.5   CARTO STORE PA SAZ, WROCLAW, POL
+SUM: -10.5
+
+2018.10.07  -20.56  Castorama, Kat owice, POL
+SUM: -20.56
+
+2018.10.12  -15.99  DOZ APTEKA DBA M O ZDRO, WROCLAW, POL
+SUM: -15.99
+
+2018.10.01  -14.99  IKEA Retail Sp . z o.o., Kobierzyce, POL
+2018.10.07  -9.0    IKEA Retail Sp. z o.o., Katowice, POL
+2018.10.07  -9.99   IKEA Retail Sp. z o.o., Katowice, POL
+2018.10.01  -6.0    IKEA Retail Sp. z o.o., Kobierzyce, POL
+2018.10.01  -6.0    IKEA Retail Sp. z o.o., Kobierzyce, POL
+SUM: -45.980000000000004
+
+2018.10.24  -9.99   MEDIA MARKT, WR OCLAW, POL
+SUM: -9.99
+
+2018.10.21  -41.34  Odbiorca: PayPro S.A.                                 BLIK: P24-Y73-606-086eic (eIC689415
+2018.10.12  -20.5   Odbiorca: PayU                                        BLIK: XX1190592862XXBilet nr 613949 404108
+SUM: -61.84
+
+2018.10.16  -5.0    PHU Beata Wyrzy kowska, Wroclaw, POL
+SUM: -5.0
+
+2018.10.23  -0.2    Poczta Polska, Wroclaw (Srod, POL
+SUM: -0.2
+
+2018.10.27  -20.0   SALON FRYZ. KO SMETYCZN, KATOWICE, POL
+SUM: -20.0
+                                                       SUM FOR REAL: -190.05999999999997
+-----------------------------------------------------------------------------------------------------------------------------
+                                                            EXCHANGE
+
+2018.10.23  -50.0   A5790565 PEKAO SA, WROCLAW, POL
+SUM: -50.0
+
+2018.10.20  400.0   Nadawca: PUCHER ALEKSANDER                            PRZELEW SRODKÓW
+2018.10.01  760.0   Nadawca: PUCHER GRZEGORZ                              PRZELEW SRODKÓW X 2018
+2018.10.01  270.0   Nadawca: PUCHER GRZEGORZ                              Rozl koszty IX 2018 - SILOWNIA
+2018.10.02  -500.0  Odbiorca: PUCHER ALEKSANDER                           PRZELEW SRODKÓW
+SUM: 930.0
+
+2018.10.01  330.0   PasazWroclaw PL
+2018.10.09  100.0   PasazWroclaw PL
+SUM: 430.0
+
+2018.10.02  300.0   Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA       rozliczenie-plecak
+2018.10.02  320.0   Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA       rozliczenie wrzesien 2018
+SUM: 620.0
+
+2018.10.29  300.0   Prowadzonego na rzecz: MIASTO KATOWICE MIASTO NA      OKW NR 141, DIETA
+SUM: 300.0
+
+2018.10.03  -5.0    Prowadzony na rzecz: Aleksander Pucher                Spotify
+2018.10.01  -269.0  Prowadzony na rzecz: LILLA PUCHER,UL. LUBUSKA 7/15    zwrot za silownie
+SUM: -274.0
+                                                       SUM FOR EXCHANGE: 1956.0
+-----------------------------------------------------------------------------------------------------------------------------
+                                                            PIGGYBANK
+
+2018.10.03  -0.85   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.81   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.14   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.28   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.04  -0.02   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.04  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.04  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.37   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.21   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.06   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.58   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.61   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.02   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.42   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.72   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.78   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.44   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.10  -0.15   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.11  -0.02   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.11  -0.34   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.11  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.12  -0.52   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.12  -0.61   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.15  -0.32   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.42   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.31   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.08   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.57   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.54   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.92   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.34   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.39   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.19  -0.04   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.19  -0.31   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.19  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.9    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.53   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.83   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.91   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.28   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.98   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.07   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.24  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.2    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.26   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.75   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.41   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.82   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.29  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.29  -0.72   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.29  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.71   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.68   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.82   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.18   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.2    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.31  -0.87   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.31  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+SUM: -48.05999999999999
+                                                       SUM FOR PIGGYBANK: -48.05999999999999
+-----------------------------------------------------------------------------------------------------------------------------

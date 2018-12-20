@@ -1,1028 +1,1028 @@
-Wyci¹g z rachunku nr za okres 2018.10.01 - 2018.10.31
+Wyciag z rachunku nr za okres 2018.10.01 - 2018.10.31
 RACHUNEK PROWADZONY NA RZECZ ALEKSANDER PUCHER, ul. LUBUSKA 7/15, 40-219 KATOWICE, Polska
 NUMER RACHUNKU 96 1560 0013 2001 9335 5000 0003
 OPROCENTOWANIE RACHUNKU 0,000000
 DATA
 TRANSAKCJI
 DATA
-KSIÊGOWANIA OPIS TRANSAKCJI KWOTA
+KSIEGOWANIA OPIS TRANSAKCJI KWOTA
 TRANSAKCJI
 SALDO PO
 TRANSAKCJI
-2018.10.01 2018.10.01 Przelew wychodz¹cy zewnêtrzny
+2018.10.01 2018.10.01 Przelew wychodzacy zewnetrzny
 Na rachunek: 09 1090 2008 0000 0001 3388 6510
-Prowadzony na rzecz: ZUZANNA A KUŒNIERZ UL.
-£ÓDZKA 15 41,*218 SOSNOWIEC
-Tytu³em: Za ¿abkê
+Prowadzony na rzecz: ZUZANNA A KUSNIERZ UL.
+LÓDZKA 15 41,*218 SOSNOWIEC
+Tytulem: Za zabke
 -7,00 217,28
-2018.10.01 2018.10.01 Przelew przychodz¹cy wewnêtrzny
+2018.10.01 2018.10.01 Przelew przychodzacy wewnetrzny
 Z rachunku: 10 1460 1181 2012 1088 9426 0003
 Nadawca: PUCHER GRZEGORZ
 ul. LUBUSKA 7/15 40-219 KATOWICE
-Tytu³em: PRZELEW ŒRODKÓW X 2018
+Tytulem: PRZELEW SRODKÓW X 2018
 760,00 977,28
-2018.10.01 2018.10.01 Przelew przychodz¹cy wewnêtrzny
+2018.10.01 2018.10.01 Przelew przychodzacy wewnetrzny
 Z rachunku: 10 1460 1181 2012 1088 9426 0003
 Nadawca: PUCHER GRZEGORZ
 ul. LUBUSKA 7/15 40-219 KATOWICE
-Tytu³em: Rozl koszty IX 2018 - SI£OWNIA
+Tytulem: Rozl koszty IX 2018 - SILOWNIA
 270,00 1 247,28
-2018.10.01 2018.10.01 Przelew wychodz¹cy zewnêtrzny
+2018.10.01 2018.10.01 Przelew wychodzacy zewnetrzny
 Na rachunek: 55 1020 3378 2107 0000 4000 7426
 Prowadzony na rzecz: mzuri sp. z.o.o
-Tytu³em: 11004155, Jana Henryka Pestalozzieg o 2 lok 1
+Tytulem: 11004155, Jana Henryka Pestalozzieg o 2 lok 1
 Pokój nr 2
 -760,00 487,28
-2018.10.01 2018.10.01 Przelew wychodz¹cy zewnêtrzny
+2018.10.01 2018.10.01 Przelew wychodzacy zewnetrzny
 Na rachunek: 38 1940 1076 5660 6157 0000 0000
 Prowadzony na rzecz: LILLA PUCHER,UL. LUBUSKA 7/15
 40-219 KATOWICE
-Tytu³em: zwrot za si³owniê
+Tytulem: zwrot za silownie
 -269,00 218,28
-2018.10.01 2018.10.01 Przelew wychodz¹cy zewnêtrzny
+2018.10.01 2018.10.01 Przelew wychodzacy zewnetrzny
 Na rachunek: 64 1020 5226 0000 6302 0586 0780
 Prowadzony na rzecz: Jerzy Lorek
-Tytu³em: za piwko
+Tytulem: za piwko
 -9,00 209,28
-2018.10.01 2018.10.01 Wp³atomat - wp³ata gotówki 330,00 PLN, Pl.Grunwaldzki22,
+2018.10.01 2018.10.01 Wplatomat - wplata gotówki 330,00 PLN, Pl.Grunwaldzki22,
 PasazWroclaw PL
 330,00 539,28
-2018.09.27 2018.10.01 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,00 PLN w
+2018.09.27 2018.10.01 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,00 PLN w
 BILETY SKYCASH, WARSZAWA, POL
 -3,00 536,28
-2018.10.02 2018.10.02 Przelew przychodz¹cy zewnêtrzny
+2018.10.02 2018.10.02 Przelew przychodzacy zewnetrzny
 Z rachunku: 38 1940 1076 5660 6157 0000 0000
 Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA
 7/15,40-219 KATOWICE
-Tytu³em: rozliczenie-plecak
+Tytulem: rozliczenie-plecak
 300,00 836,28
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.02 2018.10.02 Przelew przychodz¹cy zewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.02 2018.10.02 Przelew przychodzacy zewnetrzny
 Z rachunku: 38 1940 1076 5660 6157 0000 0000
 Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA
 7/15,40-219 KATOWICE
-Tytu³em: rozliczenie wrzesieñ 2018
+Tytulem: rozliczenie wrzesien 2018
 320,00 1 156,28
-2018.10.02 2018.10.02 Przelew wychodz¹cy wewnêtrzny
+2018.10.02 2018.10.02 Przelew wychodzacy wewnetrzny
 Na rachunek: 69 1560 0013 2001 9335 5000 0004
 Odbiorca: PUCHER ALEKSANDER
-Tytu³em: PRZELEW ŒRODKÓW
+Tytulem: PRZELEW SRODKÓW
 -500,00 656,28
-2018.10.03 2018.10.03 Przelew wychodz¹cy zewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy zewnetrzny
 Na rachunek: 14 1870 1045 2078 1284 3390 0001
 Prowadzony na rzecz: Aleksander Pucher
-Tytu³em: Spotify
+Tytulem: Spotify
 -5,00 651,28
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,85 650,43
-2018.09.28 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,15 PLN w
+2018.09.28 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,15 PLN w
 02-05 PSS SPOL EM Katow, Katowice, POL
 -16,15 634,28
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,88 633,40
-2018.09.28 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,12 PLN w
+2018.09.28 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,12 PLN w
 SKYCASH INTERC ITY, WARSZAWA, POL
 -16,12 617,28
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 616,48
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 615,68
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,81 614,87
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,03 614,84
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 614,04
-2018.09.29 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.09.29 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK2722 2WRO UR BANCARD, WROCLAW, POL
 -1,20 612,84
-2018.09.29 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.09.29 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK2486 3WRO UR BANCARD, WROCLAW, POL
 -1,20 611,64
-2018.09.30 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 29,19 PLN w T
+2018.09.30 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 29,19 PLN w T
 AND J SKLEP 800, WROCLAW, POL
 -29,19 582,45
-2018.09.30 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 37,20 PLN w
+2018.09.30 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 37,20 PLN w
 JMP S.A. BIEDR ONKA 128, WROCLAW, POL
 -37,20 545,25
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.09.30 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,97 PLN w
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.09.30 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,97 PLN w
 JMP S.A. BIEDRO NKA 237, WROCLAW, POL
 -4,97 540,28
-2018.09.30 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 8,00 PLN w
+2018.09.30 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 8,00 PLN w
 JAKUB JAKUB SZU RLEJ, WROCLAW, POL
 -8,00 532,28
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 6,00 PLN w
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 6,00 PLN w
 IKEA Retail Sp. z o.o., Kobierzyce, POL
 -6,00 526,28
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 6,00 PLN w
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 6,00 PLN w
 IKEA Retail Sp. z o.o., Kobierzyce, POL
 -6,00 520,28
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 14,99 PLN w
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 14,99 PLN w
 IKEA Retail Sp . z o.o., Kobierzyce, POL
 -14,99 505,29
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,01 505,28
-2018.10.02 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.02 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK5411 2WRO UR BANCARD, WROCLAW, POL
 -1,20 504,08
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK2719 1WRO UR BANCARD, WROCLAW, POL
 -1,20 502,88
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 502,08
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 501,28
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,70 PLN w
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,70 PLN w
 MPK2208 2WRO UR BANCARD, WROCLAW, POL
 -1,70 499,58
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 5,72 PLN w
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 5,72 PLN w
 ZABKA Z0738 K.2 , WROCLAW, POL
 -5,72 493,86
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 9,86 PLN w T
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 9,86 PLN w T
 AND J SKLEP 8 00, WROCLAW, POL
 -9,86 484,00
-2018.10.01 2018.10.03 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,70 PLN w
+2018.10.01 2018.10.03 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,70 PLN w
 MPK2223 1WRO UR BANCARD, WROCLAW, POL
 -1,70 482,30
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,30 482,00
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,30 481,70
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,14 481,56
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.03 2018.10.03 Przelew wychodz¹cy wewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.03 2018.10.03 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,28 481,28
-2018.10.04 2018.10.04 Przelew wychodz¹cy wewnêtrzny
+2018.10.04 2018.10.04 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,02 481,26
-2018.10.04 2018.10.04 Przelew wychodz¹cy wewnêtrzny
+2018.10.04 2018.10.04 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 480,46
-2018.10.04 2018.10.04 Przelew wychodz¹cy wewnêtrzny
+2018.10.04 2018.10.04 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,30 480,16
-2018.10.02 2018.10.04 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 10,00 PLN w
+2018.10.02 2018.10.04 Operacja karta 5575 xxxx xxxx 0873 na kwote 10,00 PLN w
 PRZYBIJ PIATAK A SP. Z, Wroclaw, POL
 -10,00 470,16
-2018.10.02 2018.10.04 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 5,98 PLN w
+2018.10.02 2018.10.04 Operacja karta 5575 xxxx xxxx 0873 na kwote 5,98 PLN w
 CARREFOUR EXPRE SS 3721, WROCLAW, POL
 -5,98 464,18
-2018.10.02 2018.10.04 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,20 PLN w C3
+2018.10.02 2018.10.04 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,20 PLN w C3
 Politechnika , Wroclaw, POL
 -2,20 461,98
-2018.10.02 2018.10.04 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 6,70 PLN w
+2018.10.02 2018.10.04 Operacja karta 5575 xxxx xxxx 0873 na kwote 6,70 PLN w
 POLITECHNIKA WR . DZIAL, Wroclaw, POL
 -6,70 455,28
-2018.10.04 2018.10.04 Przelew wychodz¹cy zewnêtrzny
+2018.10.04 2018.10.04 Przelew wychodzacy zewnetrzny
 Na rachunek: 84 1020 3219 0000 9602 0140 0472
 Prowadzony na rzecz: Monika Jarosz
-Tytu³em: Dla najlepszej zarz¹dczyni. K³aniam siê niziutko
+Tytulem: Dla najlepszej zarzadczyni. Klaniam sie niziutko
 -12,50 442,78
-2018.10.05 2018.10.05 Przelew wychodz¹cy wewnêtrzny
+2018.10.05 2018.10.05 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,50 442,28
-2018.10.03 2018.10.05 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 10,50 PLN w
+2018.10.03 2018.10.05 Operacja karta 5575 xxxx xxxx 0873 na kwote 10,50 PLN w
 CARTO STORE PA SAZ, WROCLAW, POL
 -10,50 431,78
-2018.10.05 2018.10.05 Przelew wychodz¹cy wewnêtrzny
+2018.10.05 2018.10.05 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,03 431,75
-2018.10.05 2018.10.05 Przelew wychodz¹cy wewnêtrzny
+2018.10.05 2018.10.05 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,37 431,38
-2018.10.05 2018.10.05 Przelew wychodz¹cy wewnêtrzny
+2018.10.05 2018.10.05 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,21 431,17
-2018.10.03 2018.10.05 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,97 PLN w
+2018.10.03 2018.10.05 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,97 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -4,97 426,20
-2018.10.03 2018.10.05 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,79 PLN w
+2018.10.03 2018.10.05 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,79 PLN w
 ZABKA Z3721 K.2 , WROCLAW, POL
 -3,79 422,41
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.03 2018.10.05 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 20,63 PLN w
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.03 2018.10.05 Operacja karta 5575 xxxx xxxx 0873 na kwote 20,63 PLN w
 JMP S.A. BIEDR ONKA 128, WROCLAW, POL
 -20,63 401,78
-2018.10.08 2018.10.08 Przelew wychodz¹cy wewnêtrzny
+2018.10.08 2018.10.08 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,88 400,90
-2018.10.08 2018.10.08 Przelew wychodz¹cy wewnêtrzny
+2018.10.08 2018.10.08 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,06 400,84
-2018.10.08 2018.10.08 Przelew wychodz¹cy wewnêtrzny
+2018.10.08 2018.10.08 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,58 400,26
-2018.10.08 2018.10.08 Przelew wychodz¹cy wewnêtrzny
+2018.10.08 2018.10.08 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,61 399,65
-2018.10.04 2018.10.08 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,12 PLN w
+2018.10.04 2018.10.08 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,12 PLN w
 SKYCASH INTERC ITY, WARSZAWA, POL
 -16,12 383,53
-2018.10.04 2018.10.08 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,94 PLN w
+2018.10.04 2018.10.08 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,94 PLN w
 ZABKA Z4004 K.1 , WROCLAW, POL
 -3,94 379,59
-2018.10.04 2018.10.08 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 18,42 PLN w
+2018.10.04 2018.10.08 Operacja karta 5575 xxxx xxxx 0873 na kwote 18,42 PLN w
 JMP S.A. BIEDR ONKA 128, WROCLAW, POL
 -18,42 361,17
-2018.10.04 2018.10.08 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 5,39 PLN w T
+2018.10.04 2018.10.08 Operacja karta 5575 xxxx xxxx 0873 na kwote 5,39 PLN w T
 AND J SKLEP 8 00, WROCLAW, POL
 -5,39 355,78
-2018.10.09 2018.10.09 Przelew przychodz¹cy zewnêtrzny
+2018.10.09 2018.10.09 Przelew przychodzacy zewnetrzny
 Z rachunku: 32 1050 1403 1000 0092 3114 5492
 Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA
-109D,44-300 WODZIS£AW ŒL¥SKI
-Tytu³em: ¯arcie
+109D,44-300 WODZISLAW SLASKI
+Tytulem: Zarcie
 10,00 365,78
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,02 365,76
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 364,96
-2018.10.07 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,98 PLN w
+2018.10.07 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,98 PLN w
 ZABKA Z1248 K.1 , KATOWICE, POL
 -3,98 360,98
-2018.10.05 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.05 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK3123 4WRO UR BANCARD, WROCLAW, POL
 -1,20 359,78
-2018.10.09 2018.10.09 Wp³atomat - wp³ata gotówki 100,00 PLN, Pl.Grunwaldzki22,
+2018.10.09 2018.10.09 Wplatomat - wplata gotówki 100,00 PLN, Pl.Grunwaldzki22,
 PasazWroclaw PL
 100,00 459,78
-2018.10.05 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,58 PLN w
+2018.10.05 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,58 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -2,58 457,20
-2018.10.05 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 7,28 PLN w
+2018.10.05 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 7,28 PLN w
 ZABKA Z1248 K.1 , KATOWICE, POL
 -7,28 449,92
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,42 449,50
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,72 448,78
-2018.10.05 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,00 PLN w
+2018.10.05 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,00 PLN w
 BILETY SKYCASH, WARSZAWA, POL
 -3,00 445,78
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,50 445,28
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,78 444,50
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,01 444,49
-2018.10.09 2018.10.09 Przelew wychodz¹cy wewnêtrzny
+2018.10.09 2018.10.09 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,44 444,05
-2018.10.07 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 25,22 PLN w
+2018.10.07 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 25,22 PLN w
 PLN intercity. pl, WARSZAWA, POL
 -25,22 418,83
-2018.10.06 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,50 PLN w
+2018.10.06 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,50 PLN w
 BILETY SKYCASH, WARSZAWA, POL
 -1,50 417,33
-2018.10.07 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 9,00 PLN w
+2018.10.07 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 9,00 PLN w
 IKEA Retail Sp. z o.o., Katowice, POL
 -9,00 408,33
-2018.10.07 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 9,99 PLN w
+2018.10.07 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 9,99 PLN w
 IKEA Retail Sp. z o.o., Katowice, POL
 -9,99 398,34
-2018.10.07 2018.10.09 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 20,56 PLN w
+2018.10.07 2018.10.09 Operacja karta 5575 xxxx xxxx 0873 na kwote 20,56 PLN w
 Castorama, Kat owice, POL
 -20,56 377,78
-2018.10.08 2018.10.10 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 46,85 PLN w
+2018.10.08 2018.10.10 Operacja karta 5575 xxxx xxxx 0873 na kwote 46,85 PLN w
 LIDL DLUGOSZA, Wroclaw, POL
 -46,85 330,93
-2018.10.10 2018.10.10 Przelew wychodz¹cy wewnêtrzny
+2018.10.10 2018.10.10 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,15 330,78
-2018.10.11 2018.10.11 Przelew wychodz¹cy wewnêtrzny
+2018.10.11 2018.10.11 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,02 330,76
-2018.10.11 2018.10.11 Przelew wychodz¹cy wewnêtrzny
+2018.10.11 2018.10.11 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,34 330,42
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.11 2018.10.11 Przelew wychodz¹cy wewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.11 2018.10.11 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 329,62
-2018.10.09 2018.10.11 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,66 PLN w
+2018.10.09 2018.10.11 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,66 PLN w
 JMP S.A. BIEDRO NKA 128, WROCLAW, POL
 -4,66 324,96
-2018.10.09 2018.10.11 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,98 PLN w
+2018.10.09 2018.10.11 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,98 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -2,98 321,98
-2018.10.09 2018.10.11 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,20 PLN w C1
+2018.10.09 2018.10.11 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,20 PLN w C1
 Politechnika , Wroclaw, POL
 -2,20 319,78
-2018.10.12 2018.10.12 Przelew wychodz¹cy wewnêtrzny
+2018.10.12 2018.10.12 Przelew wychodzacy wewnetrzny
 Odbiorca: PayU
 Grunwaldzka 18260-166 Poznan 60-166
 Poznan
-Tytu³em: BLIK: XX1190592862XXBilet nr 613949 404108
-WROC£AW PKSPolbus ul. Sucha 1-KATOWICE D.A.
+Tytulem: BLIK: XX1190592862XXBilet nr 613949 404108
+WROCLAW PKSPolbus ul. Sucha 1-KATOWICE D.A.
 ulrezerwacje.neobus .pl
 -20,50 299,28
-2018.10.12 2018.10.12 Przelew wychodz¹cy wewnêtrzny
+2018.10.12 2018.10.12 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,52 298,76
-2018.10.12 2018.10.12 Przelew wychodz¹cy wewnêtrzny
+2018.10.12 2018.10.12 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,61 298,15
-2018.10.10 2018.10.12 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,48 PLN w
+2018.10.10 2018.10.12 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,48 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -4,48 293,67
-2018.10.10 2018.10.12 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 13,39 PLN w
+2018.10.10 2018.10.12 Operacja karta 5575 xxxx xxxx 0873 na kwote 13,39 PLN w
 JMP S.A. BIEDR ONKA 128, WROCLAW, POL
 -13,39 280,28
-2018.10.15 2018.10.15 Przelew wychodz¹cy wewnêtrzny
+2018.10.15 2018.10.15 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,32 279,96
-2018.10.11 2018.10.15 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,68 PLN w
+2018.10.11 2018.10.15 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,68 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -3,68 276,28
-2018.10.16 2018.10.16 Przelew przychodz¹cy zewnêtrzny
+2018.10.16 2018.10.16 Przelew przychodzacy zewnetrzny
 Z rachunku: 32 1050 1403 1000 0092 3114 5492
 Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA
-109D,44-300 WODZIS£AW ŒL¥SKI
-Tytu³em: P³atki
+109D,44-300 WODZISLAW SLASKI
+Tytulem: Platki
 5,00 281,28
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,88 280,40
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,42 279,98
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,31 279,67
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,50 279,17
-2018.10.14 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,12 PLN w
+2018.10.14 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,12 PLN w
 SKYCASH INTERC ITY, WARSZAWA, POL
 -16,12 263,05
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,08 262,97
-2018.10.14 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,58 PLN w
+2018.10.14 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,58 PLN w
 ZABKA Z1248 K.1 , KATOWICE, POL
 -4,58 258,39
-2018.10.13 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,50 PLN w
+2018.10.13 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,50 PLN w
 BILETY SKYCASH, WARSZAWA, POL
 -1,50 256,89
-2018.10.14 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,69 PLN w
+2018.10.14 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,69 PLN w
 ZABKA Z1248 K.1 , KATOWICE, POL
 -2,69 254,20
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,50 253,70
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,01 253,69
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,57 253,12
-2018.10.13 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 37,00 PLN w
+2018.10.13 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 37,00 PLN w
 MIHIDERKA, Kat owice, POL
 -37,00 216,12
-2018.10.12 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 24,92 PLN w
+2018.10.12 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 24,92 PLN w
 02-05 PSS SPOL EM Katow, Katowice, POL
 -24,92 191,20
-2018.10.12 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 15,99 PLN w
+2018.10.12 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 15,99 PLN w
 DOZ APTEKA DBA M O ZDRO, WROCLAW, POL
 -15,99 175,21
-2018.10.12 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,50 PLN w
+2018.10.12 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,50 PLN w
 BILETY SKYCASH, WARSZAWA, POL
 -1,50 173,71
-2018.10.12 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,43 PLN w
+2018.10.12 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,43 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -3,43 170,28
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,54 169,74
-2018.10.15 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,46 PLN w
+2018.10.15 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,46 PLN w
 JMP S.A. BIEDR ONKA 128, WROCLAW, POL
 -16,46 153,28
-2018.10.17 2018.10.17 Przelew wychodz¹cy wewnêtrzny
+2018.10.17 2018.10.17 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,92 152,36
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.15 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,08 PLN w 01-
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.15 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,08 PLN w 01-
 07 Sam Zeni t, Katowice, POL
 -3,08 149,28
-2018.10.14 2018.10.17 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 10,00 PLN w
+2018.10.14 2018.10.17 Operacja karta 5575 xxxx xxxx 0873 na kwote 10,00 PLN w
 HATS OFF, SOSN OWIEC, POL
 -10,00 139,28
-2018.10.18 2018.10.18 Przelew wychodz¹cy wewnêtrzny
+2018.10.18 2018.10.18 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,34 138,94
-2018.10.18 2018.10.18 Przelew wychodz¹cy wewnêtrzny
+2018.10.18 2018.10.18 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,39 138,55
-2018.10.18 2018.10.18 Przelew wychodz¹cy wewnêtrzny
+2018.10.18 2018.10.18 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 137,75
-2018.10.18 2018.10.18 Przelew wychodz¹cy wewnêtrzny
+2018.10.18 2018.10.18 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 136,95
-2018.10.16 2018.10.18 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,66 PLN w
+2018.10.16 2018.10.18 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,66 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -3,66 133,29
-2018.10.16 2018.10.18 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 25,61 PLN w
+2018.10.16 2018.10.18 Operacja karta 5575 xxxx xxxx 0873 na kwote 25,61 PLN w
 LEDI SP. Z O.O ., WROCLAW, POL
 -25,61 107,68
-2018.10.16 2018.10.18 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.16 2018.10.18 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK3010 3WRO UR BANCARD, WROCLAW, POL
 -1,20 106,48
-2018.10.16 2018.10.18 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 5,00 PLN w
+2018.10.16 2018.10.18 Operacja karta 5575 xxxx xxxx 0873 na kwote 5,00 PLN w
 PHU Beata Wyrzy kowska, Wroclaw, POL
 -5,00 101,48
-2018.10.16 2018.10.18 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,20 PLN w C1
+2018.10.16 2018.10.18 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,20 PLN w C1
 Politechnika , Wroclaw, POL
 -2,20 99,28
-2018.10.19 2018.10.19 Przelew wychodz¹cy wewnêtrzny
+2018.10.19 2018.10.19 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,04 99,24
-2018.10.19 2018.10.19 Przelew wychodz¹cy wewnêtrzny
+2018.10.19 2018.10.19 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,31 98,93
-2018.10.19 2018.10.19 Przelew wychodz¹cy wewnêtrzny
+2018.10.19 2018.10.19 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,30 98,63
-2018.10.17 2018.10.19 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,96 PLN w
+2018.10.17 2018.10.19 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,96 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -3,96 94,67
-2018.10.17 2018.10.19 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,69 PLN w
+2018.10.17 2018.10.19 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,69 PLN w
 ZABKA Z4004 K.1 , WROCLAW, POL
 -3,69 90,98
-2018.10.17 2018.10.19 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,70 PLN w
+2018.10.17 2018.10.19 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,70 PLN w
 Sklep firmowy P iekarni, Wroclaw, POL
 -3,70 87,28
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.19 2018.10.19 Przelew przychodz¹cy zewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.19 2018.10.19 Przelew przychodzacy zewnetrzny
 Z rachunku: 75 1160 2202 0000 0003 2836 6279
 Prowadzonego na rzecz: RACHWALIK WOJCIECH,,UL
 KOSZAROWA 6M19,43-600 JAWORZNO
-Tytu³em: Za przepyszny alkohol
+Tytulem: Za przepyszny alkohol
 13,00 100,28
-2018.10.19 2018.10.19 Przelew przychodz¹cy zewnêtrzny
+2018.10.19 2018.10.19 Przelew przychodzacy zewnetrzny
 Z rachunku: 09 1090 2008 0000 0001 3388 6510
-Prowadzonego na rzecz: ZUZANNA A KUŒNIERZ UL.
-£ÓDZKA 15 41,*218 SOSNOWIEC
-Tytu³em: Za alkohol
+Prowadzonego na rzecz: ZUZANNA A KUSNIERZ UL.
+LÓDZKA 15 41,*218 SOSNOWIEC
+Tytulem: Za alkohol
 13,00 113,28
-2018.10.20 2018.10.20 Przelew przychodz¹cy wewnêtrzny
+2018.10.20 2018.10.20 Przelew przychodzacy wewnetrzny
 Z rachunku: 69 1560 0013 2001 9335 5000 0004
 Nadawca: PUCHER ALEKSANDER
 ul. LUBUSKA 7/15 40-219 KATOWICE
-Tytu³em: PRZELEW ŒRODKÓW
+Tytulem: PRZELEW SRODKÓW
 400,00 513,28
-2018.10.21 2018.10.21 Przelew wychodz¹cy wewnêtrzny
+2018.10.21 2018.10.21 Przelew wychodzacy wewnetrzny
 Odbiorca: PayPro S.A.
 ul. Kanclerska 15 60-327 Poznan
-Tytu³em: BLIK: P24-Y73-606-086eic (eIC689415
+Tytulem: BLIK: P24-Y73-606-086eic (eIC689415
 38,eIC68941539) 53291
 -41,34 471,94
-2018.10.22 2018.10.22 Przelew wychodz¹cy wewnêtrzny
+2018.10.22 2018.10.22 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 471,14
-2018.10.22 2018.10.22 Przelew wychodz¹cy wewnêtrzny
+2018.10.22 2018.10.22 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 470,34
-2018.10.22 2018.10.22 Przelew wychodz¹cy wewnêtrzny
+2018.10.22 2018.10.22 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 469,54
-2018.10.22 2018.10.22 Przelew wychodz¹cy wewnêtrzny
+2018.10.22 2018.10.22 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,01 469,53
-2018.10.22 2018.10.22 Przelew wychodz¹cy wewnêtrzny
+2018.10.22 2018.10.22 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,90 468,63
-2018.10.22 2018.10.22 Przelew wychodz¹cy wewnêtrzny
+2018.10.22 2018.10.22 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,53 468,10
-2018.10.18 2018.10.22 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.18 2018.10.22 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK2802 3WRO UR BANCARD, WROCLAW, POL
 -1,20 466,90
-2018.10.18 2018.10.22 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.18 2018.10.22 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK2711 3WRO UR BANCARD, WROCLAW, POL
 -1,20 465,70
-2018.10.18 2018.10.22 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.18 2018.10.22 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK5421 2WRO UR BANCARD, WROCLAW, POL
 -1,20 464,50
-2018.10.18 2018.10.22 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,10 PLN w
+2018.10.18 2018.10.22 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,10 PLN w
 LEDI SP. Z O.O. , WROCLAW, POL
 -3,10 461,40
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.18 2018.10.22 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 38,99 PLN w
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.18 2018.10.22 Operacja karta 5575 xxxx xxxx 0873 na kwote 38,99 PLN w
 ZABKA Z0738 K. 2, WROCLAW, POL
 -38,99 422,41
-2018.10.18 2018.10.22 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 6,47 PLN w
+2018.10.18 2018.10.22 Operacja karta 5575 xxxx xxxx 0873 na kwote 6,47 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -6,47 415,94
-2018.10.23 2018.10.23 Przelew wychodz¹cy wewnêtrzny
+2018.10.23 2018.10.23 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,83 415,11
-2018.10.19 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,17 PLN w
+2018.10.19 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,17 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -4,17 410,94
-2018.10.23 2018.10.23 Przelew wychodz¹cy wewnêtrzny
+2018.10.23 2018.10.23 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,91 410,03
-2018.10.23 2018.10.23 Przelew wychodz¹cy wewnêtrzny
+2018.10.23 2018.10.23 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 409,23
-2018.10.19 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 17,09 PLN w
+2018.10.19 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 17,09 PLN w
 LEDI SP. Z O.O ., WROCLAW, POL
 -17,09 392,14
-2018.10.19 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.19 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK2725 4WRO UR BANCARD, WROCLAW, POL
 -1,20 390,94
-2018.10.23 2018.10.23 Przelew wychodz¹cy wewnêtrzny
+2018.10.23 2018.10.23 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,28 390,66
-2018.10.23 2018.10.23 Przelew wychodz¹cy wewnêtrzny
+2018.10.23 2018.10.23 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,98 389,68
-2018.10.20 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 12,00 PLN w
+2018.10.20 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 12,00 PLN w
 MEL & DI POLAN D SP. ZO, WROCLAW, POL
 -12,00 377,68
-2018.10.20 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 6,72 PLN w
+2018.10.20 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 6,72 PLN w
 CARREFOUR EXPRE SS, WROCLAW, POL
 -6,72 370,96
-2018.10.20 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 26,02 PLN w
+2018.10.20 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 26,02 PLN w
 JMP S.A. BIEDR ONKA 237, WROCLAW, POL
 -26,02 344,94
-2018.10.23 2018.10.23 Przelew wychodz¹cy wewnêtrzny
+2018.10.23 2018.10.23 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,07 344,87
-2018.10.23 2018.10.23 Przelew wychodz¹cy wewnêtrzny
+2018.10.23 2018.10.23 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,01 344,86
-2018.10.20 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 7,93 PLN w
+2018.10.20 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 7,93 PLN w
 FASOLKA, Wrocla w, POL
 -7,93 336,93
-2018.10.20 2018.10.23 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 17,99 PLN w
+2018.10.20 2018.10.23 Operacja karta 5575 xxxx xxxx 0873 na kwote 17,99 PLN w
 ZABKA Z4004 K. 1, WROCLAW, POL
 -17,99 318,94
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.24 2018.10.24 Przelew wychodz¹cy wewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.24 2018.10.24 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,88 318,06
-2018.10.22 2018.10.24 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,12 PLN w
+2018.10.22 2018.10.24 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,12 PLN w
 SKYCASH INTERC ITY, WARSZAWA, POL
 -16,12 301,94
-2018.10.25 2018.10.25 Przelew wychodz¹cy wewnêtrzny
+2018.10.25 2018.10.25 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 301,14
-2018.10.25 2018.10.25 Przelew wychodz¹cy wewnêtrzny
+2018.10.25 2018.10.25 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,20 300,94
-2018.10.25 2018.10.25 Przelew wychodz¹cy wewnêtrzny
+2018.10.25 2018.10.25 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 300,14
-2018.10.25 2018.10.25 Przelew wychodz¹cy wewnêtrzny
+2018.10.25 2018.10.25 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,26 299,88
-2018.10.25 2018.10.25 Przelew wychodz¹cy wewnêtrzny
+2018.10.25 2018.10.25 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 299,08
-2018.10.23 2018.10.25 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,20 PLN w C3
+2018.10.23 2018.10.25 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,20 PLN w C3
 Politechnika , Wroclaw, POL
 -2,20 296,88
-2018.10.23 2018.10.25 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,80 PLN w
+2018.10.23 2018.10.25 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,80 PLN w
 Nugat Piekarnia , Wroclaw, POL
 -4,80 292,08
-2018.10.23 2018.10.25 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 0,20 PLN w
+2018.10.23 2018.10.25 Operacja karta 5575 xxxx xxxx 0873 na kwote 0,20 PLN w
 Poczta Polska, Wroclaw (Srod, POL
 -0,20 291,88
-2018.10.22 2018.10.25 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,20 PLN w
+2018.10.22 2018.10.25 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,20 PLN w
 MPK2440 3WRO UR BANCARD, WROCLAW, POL
 -1,20 290,68
-2018.10.23 2018.10.25 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 8,74 PLN w
+2018.10.23 2018.10.25 Operacja karta 5575 xxxx xxxx 0873 na kwote 8,74 PLN w
 LEDI SP. Z O.O. , WROCLAW, POL
 -8,74 281,94
-2018.10.23 2018.10.25 Wyp³ata kart¹ 5575 xxxx xxxx 0873 n a kwotê 50,00 PLN w
+2018.10.23 2018.10.25 Wyplata karta 5575 xxxx xxxx 0873 n a kwote 50,00 PLN w
 A5790565 PEKAO SA, WROCLAW, POL
 -50,00 231,94
-2018.10.26 2018.10.26 Przelew wychodz¹cy wewnêtrzny
+2018.10.26 2018.10.26 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,75 231,19
-2018.10.26 2018.10.26 Przelew wychodz¹cy wewnêtrzny
+2018.10.26 2018.10.26 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,01 231,18
-2018.10.24 2018.10.26 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,25 PLN w
+2018.10.24 2018.10.26 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,25 PLN w
 Sklep firmowy P iekarni, Wroclaw, POL
 -3,25 227,93
-2018.10.24 2018.10.26 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 9,99 PLN w
+2018.10.24 2018.10.26 Operacja karta 5575 xxxx xxxx 0873 na kwote 9,99 PLN w
 MEDIA MARKT, WR OCLAW, POL
 -9,99 217,94
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.26 2018.10.26 Przelew wychodz¹cy wewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.26 2018.10.26 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,03 217,91
-2018.10.26 2018.10.26 Przelew wychodz¹cy wewnêtrzny
+2018.10.26 2018.10.26 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,41 217,50
-2018.10.26 2018.10.26 Przelew wychodz¹cy wewnêtrzny
+2018.10.26 2018.10.26 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,82 216,68
-2018.10.24 2018.10.26 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,97 PLN w
+2018.10.24 2018.10.26 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,97 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -3,97 212,71
-2018.10.24 2018.10.26 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 17,59 PLN w
+2018.10.24 2018.10.26 Operacja karta 5575 xxxx xxxx 0873 na kwote 17,59 PLN w
 LEDI SP. Z O.O ., WROCLAW, POL
 -17,59 195,12
-2018.10.24 2018.10.26 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 6,18 PLN w
+2018.10.24 2018.10.26 Operacja karta 5575 xxxx xxxx 0873 na kwote 6,18 PLN w
 ZABKA Z4004 K.1 , WROCLAW, POL
 -6,18 188,94
-2018.10.26 2018.10.26 Przelew wychodz¹cy zewnêtrzny
+2018.10.26 2018.10.26 Przelew wychodzacy zewnetrzny
 Na rachunek: 64 1020 5226 0000 6302 0586 0780
 Prowadzony na rzecz: Jerzy Lorek
-Tytu³em: za piwko
+Tytulem: za piwko
 -8,00 180,94
-2018.10.29 2018.10.29 Przelew wychodz¹cy wewnêtrzny
+2018.10.29 2018.10.29 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 180,14
-2018.10.29 2018.10.29 Przelew wychodz¹cy wewnêtrzny
+2018.10.29 2018.10.29 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,72 179,42
-2018.10.29 2018.10.29 Przelew wychodz¹cy wewnêtrzny
+2018.10.29 2018.10.29 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,88 178,54
-2018.10.25 2018.10.29 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,28 PLN w
+2018.10.25 2018.10.29 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,28 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -3,28 175,26
-2018.10.25 2018.10.29 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,20 PLN w C1
+2018.10.25 2018.10.29 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,20 PLN w C1
 Politechnika , Wroclaw, POL
 -2,20 173,06
-2018.10.25 2018.10.29 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,12 PLN w
+2018.10.25 2018.10.29 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,12 PLN w
 SKYCASH INTERC ITY, WARSZAWA, POL
 -16,12 156,94
-2018.10.29 2018.10.29 Przelew wychodz¹cy zewnêtrzny
+2018.10.29 2018.10.29 Przelew wychodzacy zewnetrzny
 Na rachunek: 96 1050 1214 1000 0092 1514 0097
-Prowadzony na rzecz: KSIÊ¯YK DOMINIK,ORKANA
+Prowadzony na rzecz: KSIEZYK DOMINIK,ORKANA
 6A/1340-553 KATOWICE
-Tytu³em: WÓDAAAA
+Tytulem: WÓDAAAA
 -18,94 138,00
-2018.10.29 2018.10.29 Przelew przychodz¹cy zewnêtrzny
+2018.10.29 2018.10.29 Przelew przychodzacy zewnetrzny
 Z rachunku: 44 1020 2313 0000 3102 0514 9168
 Prowadzonego na rzecz: MIASTO KATOWICE MIASTO NA
-PRAWACH P,OWIATU,UL. M£YÑSKA 4,40-098 KATOWICE
-Tytu³em: OKW NR 141, DIETA
+PRAWACH P,OWIATU,UL. MLYNSKA 4,40-098 KATOWICE
+Tytulem: OKW NR 141, DIETA
 300,00 438,00
-2018.10.26 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,20 PLN w C1
+2018.10.26 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,20 PLN w C1
 Politechnika , Wroclaw, POL
 -2,20 435,80
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,80 435,00
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,01 434,99
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,03 434,96
-2018.10.26 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,97 PLN w
+2018.10.26 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,97 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -2,97 431,99
-2018.10.26 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,99 PLN w
+2018.10.26 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,99 PLN w
 JMP S.A. BIEDRO NKA 523, WROCLAW, POL
 -1,99 430,00
-2018.10.25 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 8,00 PLN w
+2018.10.25 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 8,00 PLN w
 PADBAR, WROCLAW , POL
 -8,00 422,00
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,71 421,29
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,68 420,61
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,82 419,79
-2018.10.27 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 1,29 PLN w 02-
+2018.10.27 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 1,29 PLN w 02-
 05 PSS SPOLE M Katow, Katowice, POL
 -1,29 418,50
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,18 418,32
-2018.10.27 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 27,32 PLN w
+2018.10.27 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 27,32 PLN w
 LIDL SLONECZNA , Katowice, POL
 -27,32 391,00
-2018.10.27 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 4,18 PLN w
+2018.10.27 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 4,18 PLN w
 ZABKA Z1248 K.1 , KATOWICE, POL
 -4,18 386,82
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,88 385,94
-2018.10.30 2018.10.30 Przelew wychodz¹cy wewnêtrzny
+2018.10.30 2018.10.30 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,20 385,74
-2018.10.28 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 11,82 PLN w
+2018.10.28 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 11,82 PLN w
 LIDL SLONECZNA , Katowice, POL
 -11,82 373,92
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
-2018.10.27 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 20,00 PLN w
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.
+2018.10.27 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 20,00 PLN w
 SALON FRYZ. KO SMETYCZN, KATOWICE, POL
 -20,00 353,92
-2018.10.28 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,12 PLN w
+2018.10.28 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,12 PLN w
 SKYCASH INTERC ITY, WARSZAWA, POL
 -16,12 337,80
-2018.10.28 2018.10.30 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 2,80 PLN w
+2018.10.28 2018.10.30 Operacja karta 5575 xxxx xxxx 0873 na kwote 2,80 PLN w
 ZABKA Z0738 K.2 , WROCLAW, POL
 -2,80 335,00
-2018.10.31 2018.10.31 Przelew wychodz¹cy wewnêtrzny
+2018.10.31 2018.10.31 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,87 334,13
-2018.10.29 2018.10.31 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 3,13 PLN w
+2018.10.29 2018.10.31 Operacja karta 5575 xxxx xxxx 0873 na kwote 3,13 PLN w
 JMP S.A. BIEDRO NKA 265, WROCLAW, POL
 -3,13 331,00
-2018.10.31 2018.10.31 Przelew wychodz¹cy wewnêtrzny
+2018.10.31 2018.10.31 Przelew wychodzacy wewnetrzny
 Na rachunek: 42 1560 0013 2001 9335 5000 0005
 Odbiorca: GETIN NOBLE BANK SA
-Tytu³em: Us³uga Zachowaj Resztê - reszta z t ransakcji
+Tytulem: Usluga Zachowaj Reszte - reszta z t ransakcji
 -0,88 330,12
-2018.10.29 2018.10.31 Operacja kart¹ 5575 xxxx xxxx 0873 na kwotê 16,12 PLN w
+2018.10.29 2018.10.31 Operacja karta 5575 xxxx xxxx 0873 na kwote 16,12 PLN w
 SKYCASH INTERC ITY, WARSZAWA, POL
 -16,12 314,00
-2018.10.31 2018.10.31 Przelew wychodz¹cy wewnêtrzny
+2018.10.31 2018.10.31 Przelew wychodzacy wewnetrzny
 Na rachunek: 75 1560 1108 2008 5162 0000 0001
 Odbiorca: Alicja Plewako
-Tytu³em: ¯ebyœ jeszcze na obiad mia³a!
+Tytulem: Zebys jeszcze na obiad miala!
 -120,00 194,00
-Obci¹¿enia -2 851,28
+Obciazenia -2 851,28
 Uznania 2 821,00
-Saldo koñcowe 194,00
-Œrodki zgromadzone na rachunku s¹ chronione przez obowi¹zkowy system gwarantowania depozytów funkcjonuj¹cy na podstawie ustawy z dnia 10 czerwca 2016 r. o
-Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2016r., poz. 996). Szczegó³y, w tym zakres i limit
-ochrony, znajduj¹ siê w Arkuszu Informacyjnym dla Deponentów oraz na www.bfg.pl
-Getin Noble Bank Spó³ka Akcyjna z siedzib¹ przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiêbiorców Krajowego Rejestru S¹dowego pod
-numerem 0000304735 przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, NIP 1080004850, REGON 141334039,
-wysokoœæ kapita³u zak³adowego wynosi 2.751.630.417,90 z³otych (wp³acony w ca³oœci). Op³ata jak za po³¹czenie lokalne wg taryfy operatora.
-Dokument wygenerowany elektronicznie sporz¹dzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
-(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z póŸniejszymi zmianami). Nie wymaga podpisu ani stempla.
+Saldo koncowe 194,00
+Srodki zgromadzone na rachunku sa chronione przez obowiazkowy system gwarantowania depozytów funkcjonujacy na podstawie ustawy z dnia 10 czerwca 2016 r. o
+Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2016r., poz. 996). Szczególy, w tym zakres i limit
+ochrony, znajduja sie w Arkuszu Informacyjnym dla Deponentów oraz na www.bfg.pl
+Getin Noble Bank Spólka Akcyjna z siedziba przy ulicy Przyokopowej 33, 01-208 Warszawa, wpisana do rejestru przedsiebiorców Krajowego Rejestru Sadowego pod
+numerem 0000304735 przez Sad Rejonowy dla m.st. Warszawy, XII Wydzial Gospodarczy Krajowego Rejestru Sadowego, NIP 1080004850, REGON 141334039,
+wysokosc kapitalu zakladowego wynosi 2.751.630.417,90 zlotych (wplacony w calosci). Oplata jak za polaczenie lokalne wg taryfy operatora.
+Dokument wygenerowany elektronicznie sporzadzony na podstawie art. 7 ustawy Prawo bankowe z dnia 29 sierpnia 1997 roku
+(tekst jednolity Dz.U. z 2015 r. poz. 128 wraz z pózniejszymi zmianami). Nie wymaga podpisu ani stempla.

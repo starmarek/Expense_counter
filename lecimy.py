@@ -7,8 +7,7 @@ The bank statemnt itself must be raw copied (Ctrl+A + Ctrl+C + Ctrl+V) to the 's
 This file must be saved in the same folder as the following python (.py) file.
 Program saves the produced data in the created 'outcome.txt' file.
 """
-
-
+from builtins import enumerate
 from typing import Union
 
 
@@ -43,7 +42,7 @@ debts_return = [
     "rachwalik",
     "jarosz",
     "dyba",
-    "księżyk",
+    "orkana",
     "alicja"
 
 ]
@@ -72,15 +71,16 @@ food = [
 ]
 
 words = {
-    1: rent,
-    2: food,
-    3: debts,
-    4: debts_return,
-    5: transport,
-    6: real,
-    7: exchange,
-    8: piggybank
+    'rent': rent,
+    'food': food,
+    'debts': debts,
+    'debts_return': debts_return,
+    'transport': transport,
+    'real': real,
+    'exchange': exchange,
+    'piggybank': piggybank
 }
+
 
 
 class Expense:
@@ -101,12 +101,15 @@ class Expense:
         set_kind (dict_Words (dict)): sets 'kind' variable for given object
     """
 
-    kind = int
+    kind = str
+
+    num_of_str_in_amount = int
 
     def __init__(self, amount: float, reciever: str, date: str) -> None:
         self.amount = amount
         self.reciever = reciever
         self.date = date
+        self.num_of_str_in_amount = len(str(amount))
 
     def set_kind(self, dict_words: dict) -> None:
         """It sets 'kind' variable which is a representation of type of an expense.
@@ -125,13 +128,20 @@ class Expense:
         """
         for key, value in dict_words.items():
             if any(z in self.reciever.lower() for z in value):
-                if key == 3 and self.amount > 0:
+                if key == 'debts' and self.amount > 0:
                     continue
-                if key == 4 and self.amount < 0:
+                if key == 'debts_return' and self.amount < 0:
                     continue
                 self.kind = key
                 return
         raise Exception('Kind of an object was not set')
+
+    def prin_yrsl(self, handle, num, elo, *args):
+        spaces = (num - self.num_of_str_in_amount + 2) * ' '
+        if args:
+            handle.write('{} {}{}{} '.format(self.date, self.amount, spaces, self.reciever.strip('\n')))
+            return
+        handle.write(f'{self.date} {self.amount}{spaces}{self.reciever}')
 
 
 class Transfer(Expense):
@@ -147,9 +157,18 @@ class Transfer(Expense):
         only inherited variables
     """
 
+    length_of_reciever = int
+
     def __init__(self, amount: float, reciever: str, title: str, date: str) -> None:
         super().__init__(amount, reciever, date)
         self.title = title
+        self.length_of_reciever = len(reciever)
+
+    def prin_yrsl(self, handle, num, elo, *args):
+        spy = int
+        spacesss = (elo - self.length_of_reciever + 2) * ' '
+        super().prin_yrsl(handle, num, elo, spy)
+        write_handle.write(f'{spacesss}{self.title}')
 
 
 class CardPayment(Expense):
@@ -217,20 +236,21 @@ def create(expense: list) -> Union[CashMachine, CardPayment, Transfer]:
          not finding a keyword in the raw expense
     """
 
-    reciever = str
-    title = str
+    reciever = int
+    title = int
     if any('xxxx' in foo.lower() for foo in expense):
         return CardPayment(float(expense[-1]), expense[1], expense[0][:11])
     elif any('przelew' in foo.lower() for foo in expense):
         for indexx, e in enumerate(expense):
-            if 'tytułem' in e.lower():
+            if 'tytu' in e.lower():
                 title = indexx
             if ('prowadzon' in e.lower()) or ('odbiorca' in e.lower()) or ('nadawca' in e.lower()):
                 reciever = indexx
-        return Transfer(float(expense[-1]), expense[reciever], expense[title], expense[0][:11])
-    elif any('wpłata' in foo.lower() for foo in expense) or any('wypłata' in foo.lower() for foo in expense):
+        return Transfer(float(expense[-1]), expense[reciever], expense[title][8:], expense[0][:11])
+    elif any('ata got' in foo.lower() for foo in expense) or any('ata kart' in foo.lower() for foo in expense):
         return CashMachine(float(expense[-1]), expense[-2], expense[0][:11])
     else:
+        print('This is an expense that caused all the trouble --> ' + str(expense))
         raise Exception('Some expenses werent converted to objects')
 
 
@@ -249,7 +269,7 @@ def process_list(handle) -> list:
     foo = list()
     expenses = list()
     for line in handle:
-        if ('2018' in line) and not ('Wyciąg' in line):
+        if ('2018' in line) and not ('za okres' in line):
             add_to_list = True
         if add_to_list:
             if decide_if_is_amount(line):
@@ -266,161 +286,42 @@ def process_list(handle) -> list:
     return expenses
 
 
+def spaceee(objekt, wordsy, handle):
+    second = {}
+    summator = 0
+    for c, t in enumerate(objekt):
+        for g in wordsy:
+            if g in t.reciever.lower():
+                if not(g in second):
+                    second[g] = 1
+                    if c == 0:
+                        continue
+                    handle.write('SUM: ' + str(summator) + 2 * '\n')
+                    summator = 0
+                if second.__len__() == 2:
+                    second.pop(list(second.keys())[0])
+        summator += t.amount
+        t.prin_yrsl(write_handle, max_amou, max_reciever)
+    handle.write('SUM: ' + str(summator) + '\n')
+
+
 with open('Statement.txt', 'r') as read_handle:
-    expenses_list = process_list(read_handle)
+    expenses_list = sorted(process_list(read_handle), key=lambda x: x.kind)
 
+max_amou = sorted(expenses_list, key=lambda x: x.num_of_str_in_amount).pop().num_of_str_in_amount
+max_reciever = sorted(expenses_list, key=lambda x: x.length_of_reciever if type(x) == Transfer else False).pop().length_of_reciever
 
-######################
-tmp = []
-liczba_wydatkow = 8
-i = 0
-suma = 0
-count = 0
-counter = 0
-counterer = 0
-second = ''
-
-
-def take_second(elem):
-    return elem[1].lower()
-
-
-def checknsave(str):
-    for l, g in enumerate(str):
-        if "." in g:
-            g = g.strip("\n")
-            g = g.replace(".", "")
-            g = g.replace("-", "")
-            if g.replace(" ", "").isdigit():
-                return l
-
-
-# TODO: string backwards indexing
-# TODO: sort dates
-# TODO: titles of transfers
 
 with open("Outcome.txt", 'w') as write_handle:
-    while i < liczba_wydatkow:
-        for ind in expenses_list:
-            for s in ind:
+    summator = 0
+    for key, value in words.items():
+        write_handle.write(60 * ' ' + str(key).upper() + 2 * '\n')
+        tmp = sorted([expense for expense in expenses_list if expense.kind == key], key=lambda x: x.reciever.lower())
+        for num in tmp:
+            summator += num.amount
+        spaceee(tmp, value, write_handle)
+        write_handle.write(55 * ' ' + f'SUM FOR {str(key).upper()}: ' + str(summator) + '\n')
+        summator = 0
+        write_handle.write(125*'-'+ '\n')
 
-                if any(z in s.lower() for z in zbior_wyrazow[i]):
-                    if i == 6 and 'wychodzący' in ind[0].lower():
-                        continue
-                    elif i == 7 and 'przychodzący' in ind[0].lower():
-                        continue
-                    tmp.append(ind)
-
-        tmp.sort(key=take_second)  # TODO: change sorting, so it uses the keywords
-        counterer += len(tmp)
-        for s in tmp:
-            pomoc = checknsave(s)
-            for t in s:
-                for g in zbior_wyrazow[i]:
-                    if g in t.lower():
-                        first = g
-                        if first == second:
-                            continue
-                        elif second == '':
-                            second = first
-                            continue
-                        elif count == 0:
-                            second = first
-                            continue
-                        else:
-                            write_handle.write('\n')
-                        second = first
-
-            count += 1
-            ll = len(str(s[pomoc]))
-            b = s[1]
-            if pomoc == 1:
-                b = s[0][22:31] + "\n"
-
-            if count < 10:
-                if ll == 3:
-                    write_handle.write("{}   {}        {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-                elif ll == 4:
-                    write_handle.write("{}   {}       {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-                elif ll == 5:
-                    write_handle.write("{}   {}      {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-                elif ll == 6:
-                    write_handle.write("{}   {}     {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-                elif ll == 7:
-                    write_handle.write("{}   {}    {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-
-            elif ll == 3:
-                write_handle.write("{}   {}       {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-            elif ll == 4:
-                write_handle.write("{}  {}       {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-            elif ll == 5:
-                write_handle.write("{}  {}      {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-            elif ll == 6:
-                write_handle.write("{}  {}     {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-            elif ll == 7:
-                write_handle.write("{}  {}    {}    {}".format(count, s[pomoc], s[0][0:10], b))  # 11 -2.32
-        write_handle.write("-" * 100 + "\n")
-        i += 1
-        counter += count
-        count = 0
-        tmp.clear()
-
-    write_handle.write(str(counterer))
-    write_handle.write(str(counter))
-
-
-# /////////////////////////////CZESC INTERAKTYWNA\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#
-
-
-# expenses = [
-#     "Artykuly spozywcze", "Czynsz za mieszkanie", "Zwroty dlugow",
-#     "Moje dlugi"
-# ]
-#
-#
-# switcher = {
-#     1: spozywcze,
-#     2: mieszkanie,
-#     3: zw_dlugi,
-#     4: dlugi
-# }
-#
-#
-# def oblicz():
-#     wynik = 0
-#     nazwy = []
-#     liczby = []
-#     daty = []
-#     if switcher.get(wybor) == spozywcze:
-#         for i in spozywcze:
-#             wynik += float(i[2])
-#             nazwy.append(i[1])
-#             liczby.append(i[2])
-#             daty.append(i[0][0:10])
-#     elif switcher.get(wybor) == mieszkanie:
-#         for i in mieszkanie:
-#             wynik += float(i[3])
-#     elif switcher.get(wybor) == zw_dlugi:
-#         for i in zw_dlugi:
-#             wynik += float(i[3])
-#     elif switcher.get(wybor) == dlugi:
-#         for i in dlugi:
-#             wynik += float(i[3])
-#     for l,s in enumerate(nazwy, 1):
-#         print('{}   {}     {}    {}'.format(l, liczby[l-1], daty[l-1], s.replace("\n", "")))
-#     print("\nSumaryczna ilosc pieniedzy: " + str(wynik) + "\n")
-#
-#
-# def wyswietl():
-#
-#     print(switcher.get(wybor , "lipa"))
-#
-#
-# while True:
-#     print("--------------------------")
-#     for a, b in enumerate(expenses, 1):
-#         print('{} {}'.format(a, b))
-#     wybor = int(input("\nProsze podac numer informacji do wyswietlenia: "))
-#     if wybor == 99:
-#         break
-#     oblicz()
+        #TODO: summary of negatives and positives + comments + cleaning
