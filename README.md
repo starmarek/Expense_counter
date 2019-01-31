@@ -8,7 +8,7 @@ The project is all about counting up and printing out in the appropriete order a
 
 ## Versions of program
 					
-					 			1.0
+					 		    1.0
 
 - Program gets a .txt file with raw text copied from bank statement
 - It returns also a .txt file with ordered, sorted and divided into groups expenses. Expenses will be listed in the following categories and order:
@@ -31,6 +31,9 @@ statement, there will be an amount of money displayed, summarizing given piece o
 - Adding GUI and possibilty for user to add his own kind of expenses.
 - Changing the system of 'lists of words' to something more reliable and comfy to use.
 
+## Current version of program
+							     0.7
+	
 ## Authors
 
 - Aleksander Pucher -> initial idea and first lines of code 
