@@ -1,6 +1,6 @@
                                                             RENT
 
-2018.10.01  -760.0  Prowadzony na rzecz: mzuri sp. z.o.o                  11004155, Jana Henryka Pestalozzieg o 2 lok 1
+2018.10.01  -760.0  Prowadzony na rzecz: mzuri sp. z.o.o                 11004155, Jana Henryka Pestalozzieg o 2 lok 1
 SUM: -760.0
                                                        SUM FOR RENT: -760.0
 -----------------------------------------------------------------------------------------------------------------------------
@@ -101,50 +101,58 @@ SUM: -6.95
 2018.10.18  -38.99  ZABKA Z0738 K. 2, WROCLAW, POL
 2018.10.01  -5.72   ZABKA Z0738 K.2 , WROCLAW, POL
 2018.10.28  -2.8    ZABKA Z0738 K.2 , WROCLAW, POL
+SUM: -47.51
+
 2018.10.07  -3.98   ZABKA Z1248 K.1 , KATOWICE, POL
 2018.10.05  -7.28   ZABKA Z1248 K.1 , KATOWICE, POL
 2018.10.14  -4.58   ZABKA Z1248 K.1 , KATOWICE, POL
 2018.10.14  -2.69   ZABKA Z1248 K.1 , KATOWICE, POL
 2018.10.27  -4.18   ZABKA Z1248 K.1 , KATOWICE, POL
+SUM: -22.71
+
 2018.10.03  -3.79   ZABKA Z3721 K.2 , WROCLAW, POL
+SUM: -3.79
+
 2018.10.20  -17.99  ZABKA Z4004 K. 1, WROCLAW, POL
+SUM: -17.99
+
 2018.10.04  -3.94   ZABKA Z4004 K.1 , WROCLAW, POL
 2018.10.17  -3.69   ZABKA Z4004 K.1 , WROCLAW, POL
 2018.10.24  -6.18   ZABKA Z4004 K.1 , WROCLAW, POL
-SUM: -105.81
+SUM: -13.809999999999999
                                                        SUM FOR FOOD: -688.5600000000005
 -----------------------------------------------------------------------------------------------------------------------------
 
                                                             DEBTS
 
-2018.10.31  -120.0  Odbiorca: Alicja Plewako                              Zebys jeszcze na obiad miala!
+2018.10.31  -120.0  Odbiorca: Alicja Plewako                             Zebys jeszcze na obiad miala!
 SUM: -120.0
 
-2018.10.01  -9.0    Prowadzony na rzecz: Jerzy Lorek                      za piwko
-2018.10.26  -8.0    Prowadzony na rzecz: Jerzy Lorek                      za piwko
+2018.10.01  -9.0    Prowadzony na rzecz: Jerzy Lorek                     za piwko
+2018.10.26  -8.0    Prowadzony na rzecz: Jerzy Lorek                     za piwko
 SUM: -17.0
 
-2018.10.29  -18.94  Prowadzony na rzecz: KSIEZYK DOMINIK,ORKANA           WÓDAAAA
+2018.10.29  -18.94  Prowadzony na rzecz: KSIEZYK DOMINIK,ORKANA          WÓDAAAA
 SUM: -18.94
 
-2018.10.04  -12.5   Prowadzony na rzecz: Monika Jarosz                    Dla najlepszej zarzadczyni. Klaniam sie niziutko
+2018.10.04  -12.5   Prowadzony na rzecz: Monika Jarosz                   Dla najlepszej zarzadczyni. Klaniam sie niziutko
 SUM: -12.5
 
-2018.10.01  -7.0    Prowadzony na rzecz: ZUZANNA A KUSNIERZ UL.           Za zabke
+2018.10.01  -7.0    Prowadzony na rzecz: ZUZANNA A KUSNIERZ UL.          Za zabke
 SUM: -7.0
                                                        SUM FOR DEBTS: -175.44
 -----------------------------------------------------------------------------------------------------------------------------
 
                                                             DEBTS_RETURN
 
-2018.10.09  10.0    Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA          Zarcie
-2018.10.16  5.0     Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA          Platki
+2018.10.09  10.0    Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA         Zarcie
+2018.10.16  5.0     Prowadzonego na rzecz: DYBA MATEUSZ,PSZOWSKA         Platki
 SUM: 15.0
 
-2018.10.19  13.0    Prowadzonego na rzecz: RACHWALIK WOJCIECH,,UL         Za przepyszny alkohol
+2018.10.19  13.0    Prowadzonego na rzecz: RACHWALIK WOJCIECH,,UL        Za przepyszny alkohol
 SUM: 13.0
 
-2018.10.19  13.0    Prowadzonego na rzecz: ZUZANNA A KUSNIERZ UL.         Za alkohol
+2018.10.19  13.0    Prowadzonego na rzecz: ZUZANNA A KUSNIERZ UL.        Za alkohol
 SUM: 13.0
                                                        SUM FOR DEBTS_RETURN: 41.0
 -----------------------------------------------------------------------------------------------------------------------------
@@ -208,8 +216,8 @@ SUM: -45.980000000000004
 2018.10.24  -9.99   MEDIA MARKT, WR OCLAW, POL
 SUM: -9.99
 
-2018.10.21  -41.34  Odbiorca: PayPro S.A.                                 BLIK: P24-Y73-606-086eic (eIC689415
-2018.10.12  -20.5   Odbiorca: PayU                                        BLIK: XX1190592862XXBilet nr 613949 404108
+2018.10.21  -41.34  Odbiorca: PayPro S.A.                                BLIK: P24-Y73-606-086eic (eIC689415
+2018.10.12  -20.5   Odbiorca: PayU                                       BLIK: XX1190592862XXBilet nr 613949 404108
 SUM: -61.84
 
 2018.10.16  -5.0    PHU Beata Wyrzy kowska, Wroclaw, POL
@@ -228,129 +236,131 @@ SUM: -20.0
 2018.10.23  -50.0   A5790565 PEKAO SA, WROCLAW, POL
 SUM: -50.0
 
-2018.10.20  400.0   Nadawca: PUCHER ALEKSANDER                            PRZELEW SRODKÓW
-2018.10.01  760.0   Nadawca: PUCHER GRZEGORZ                              PRZELEW SRODKÓW X 2018
-2018.10.01  270.0   Nadawca: PUCHER GRZEGORZ                              Rozl koszty IX 2018 - SILOWNIA
-2018.10.02  -500.0  Odbiorca: PUCHER ALEKSANDER                           PRZELEW SRODKÓW
+2018.10.20  400.0   Nadawca: PUCHER ALEKSANDER                           PRZELEW SRODKÓW
+2018.10.01  760.0   Nadawca: PUCHER GRZEGORZ                             PRZELEW SRODKÓW X 2018
+2018.10.01  270.0   Nadawca: PUCHER GRZEGORZ                             Rozl koszty IX 2018 - SILOWNIA
+2018.10.02  -500.0  Odbiorca: PUCHER ALEKSANDER                          PRZELEW SRODKÓW
 SUM: 930.0
 
 2018.10.01  330.0   PasazWroclaw PL
 2018.10.09  100.0   PasazWroclaw PL
 SUM: 430.0
 
-2018.10.02  300.0   Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA       rozliczenie-plecak
-2018.10.02  320.0   Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA       rozliczenie wrzesien 2018
+2018.10.02  300.0   Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA      rozliczenie-plecak
+2018.10.02  320.0   Prowadzonego na rzecz: LILLA PUCHER,UL. LUBUSKA      rozliczenie wrzesien 2018
 SUM: 620.0
 
-2018.10.29  300.0   Prowadzonego na rzecz: MIASTO KATOWICE MIASTO NA      OKW NR 141, DIETA
+2018.10.29  300.0   Prowadzonego na rzecz: MIASTO KATOWICE MIASTO NA     OKW NR 141, DIETA
 SUM: 300.0
 
-2018.10.03  -5.0    Prowadzony na rzecz: Aleksander Pucher                Spotify
-2018.10.01  -269.0  Prowadzony na rzecz: LILLA PUCHER,UL. LUBUSKA 7/15    zwrot za silownie
+2018.10.03  -5.0    Prowadzony na rzecz: Aleksander Pucher               Spotify
+2018.10.01  -269.0  Prowadzony na rzecz: LILLA PUCHER,UL. LUBUSKA 7/15   zwrot za silownie
 SUM: -274.0
                                                        SUM FOR EXCHANGE: 1956.0
 -----------------------------------------------------------------------------------------------------------------------------
 
                                                             PIGGYBANK
 
-2018.10.03  -0.85   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.81   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.14   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.03  -0.28   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.04  -0.02   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.04  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.04  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.05  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.05  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.05  -0.37   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.05  -0.21   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.08  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.08  -0.06   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.08  -0.58   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.08  -0.61   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.02   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.42   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.72   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.78   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.09  -0.44   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.10  -0.15   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.11  -0.02   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.11  -0.34   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.11  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.12  -0.52   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.12  -0.61   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.15  -0.32   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.42   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.31   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.08   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.5    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.57   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.54   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.17  -0.92   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.18  -0.34   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.18  -0.39   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.18  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.18  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.19  -0.04   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.19  -0.31   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.19  -0.3    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.22  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.22  -0.9    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.22  -0.53   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.23  -0.83   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.23  -0.91   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.23  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.23  -0.28   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.23  -0.98   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.23  -0.07   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.23  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.24  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.25  -0.2    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.25  -0.26   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.26  -0.75   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.26  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.26  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.26  -0.41   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.26  -0.82   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.29  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.29  -0.72   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.29  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.8    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.01   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.03   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.71   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.68   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.82   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.18   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.30  -0.2    Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.31  -0.87   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
-2018.10.31  -0.88   Odbiorca: GETIN NOBLE BANK SA                         Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.85   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.88   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.81   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.03   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.01   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.3    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.3    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.14   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.03  -0.28   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.04  -0.02   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.04  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.04  -0.3    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.5    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.03   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.37   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.05  -0.21   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.88   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.06   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.58   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.08  -0.61   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.02   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.42   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.72   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.5    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.78   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.01   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.09  -0.44   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.10  -0.15   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.11  -0.02   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.11  -0.34   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.11  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.12  -0.52   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.12  -0.61   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.15  -0.32   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.88   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.42   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.31   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.5    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.08   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.5    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.01   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.57   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.54   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.17  -0.92   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.34   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.39   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.18  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.19  -0.04   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.19  -0.31   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.19  -0.3    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.01   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.9    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.22  -0.53   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.83   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.91   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.28   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.98   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.07   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.23  -0.01   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.24  -0.88   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.2    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.26   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.25  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.75   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.01   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.03   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.41   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.26  -0.82   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.29  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.29  -0.72   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.29  -0.88   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.8    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.01   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.03   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.71   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.68   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.82   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.18   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.88   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.30  -0.2    Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.31  -0.87   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
+2018.10.31  -0.88   Odbiorca: GETIN NOBLE BANK SA                        Usluga Zachowaj Reszte - reszta z t ransakcji
 SUM: -48.05999999999999
                                                        SUM FOR PIGGYBANK: -48.05999999999999
 -----------------------------------------------------------------------------------------------------------------------------
 
                                                             SUMMARY
 Negatives: -2027.28                                     Positives: 1997.0                              Balance: -30.28
+
+            Expenses included in the original statement: 228          Expenses processed by program: 228
