@@ -32,7 +32,7 @@ statement, there will be an amount of money displayed, summarizing given piece o
 - Changing the system of 'lists of words' to something more reliable and comfy to use.
 
 ## Current version of program
-							     0.7
+							     1.0
 	
 ## Authors
 
