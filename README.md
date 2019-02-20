@@ -2,7 +2,7 @@
 The project is all about counting up and printing out in the appropriete order and manner all the expenses included in the inputed bank statement.
 
 ## How does it work at the moment
-- Inputed bank statement must be a __raw copied .txt file__ (Example in the _Statement.txt_).
+- Inputed bank statement must be a __raw copied .txt file__.
 - Program uses the 'lists of words' which are included in the code to distinguish expenses from each other. Before usage these lists must be __adjusted to the user__. If not, program won't work properly, or won't work at all.
 - Program creates new .txt file and saves output right there.
 
